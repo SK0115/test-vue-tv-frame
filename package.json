@@ -1,6 +1,6 @@
 {
   "name": "vue-tv-frame",
-  "version": "3.1.2",
+  "version": "1.0.0",
   "description": "A tv framework designed by vue2",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gug000/vue-tv-frame.git"
+    "url": "https://github.com/SK0115/test-vue-tv-frame.git"
   },
   "keywords": [
     "tv",
     "framework",
     "vue"
   ],
-  "author": "huang.qinghua@whaley.cn",
+  "author": "shen.ke",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.22.1",
