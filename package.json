@@ -1,6 +1,6 @@
 {
-  "name": "vue-tv-frame",
-  "version": "1.0.0",
+  "name": "test-vue-tv-frame",
+  "version": "1.0.1",
   "description": "A tv framework designed by vue2",
   "main": "index.js",
   "scripts": {
